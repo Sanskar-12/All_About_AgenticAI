@@ -21,3 +21,4 @@ youtube_search
 yfinance
 pydantic
 langchain_experimental
+ddgs
